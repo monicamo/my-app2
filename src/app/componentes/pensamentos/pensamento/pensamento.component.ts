@@ -1,4 +1,5 @@
 import { Component, Input } from '@angular/core';
+import { Pensamento } from '../../../modelos/pensamento';
 
 @Component({
   selector: 'app-pensamento',
@@ -8,5 +9,15 @@ import { Component, Input } from '@angular/core';
   styleUrl: './pensamento.component.scss'
 })
 export class PensamentoComponent {
-  @Input() pensamento: any;
+
+  // Usar o Operador de Não-Nulo (!)
+  @Input() pensamento!: Pensamento;
+
+  larguraPensamento(): string {
+    if(this.pensamento?.conteudo?.length >= 256) {
+      return 'pensamento-g';
+    }
+
+    return 'pensamento-p';
+  }
 }

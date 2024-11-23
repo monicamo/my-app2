@@ -1,0 +1,70 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "I love Angular",
+      "autoria": "Nay",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conteudo": "Passo informações para o componente filho",
+      "autoria": "Nay",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 3,
+      "conteudo": "A adoção de tecnologias emergentes como inteligência artificial e aprendizado de máquina está transformando setores inteiros, desde saúde até agricultura, oferecendo oportunidades sem precedentes para inovação e eficiência, mas também levantando questões éticas significativas.",
+      "autoria": "Revista TechWorld",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 4,
+      "conteudo": "O trabalho remoto, que antes era uma exceção, tornou-se a norma para milhões de trabalhadores em todo o mundo após a pandemia. Essa mudança trouxe desafios relacionados à comunicação, produtividade e saúde mental, mas também abriu espaço para uma maior flexibilidade e equilíbrio entre vida pessoal e profissional.",
+      "autoria": "Relatório de Tendências de Trabalho",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 5,
+      "conteudo": "Comunicação entre componentes",
+      "autoria": "Angular",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 6,
+      "conteudo": "A sustentabilidade deixou de ser apenas um conceito abstrato e se tornou uma necessidade urgente. Empresas em todo o mundo estão adotando práticas de economia circular, reduzindo o desperdício e repensando seus processos de fabricação para minimizar o impacto ambiental e responder às demandas de consumidores mais conscientes.",
+      "autoria": "Jornal EcoHoje",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 7,
+      "conteudo": "A educação digital é um divisor de águas no acesso ao conhecimento.",
+      "autoria": "Blog Educação em Rede",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 8,
+      "conteudo": "No campo da saúde, o avanço das tecnologias de telemedicina tem permitido o acesso a cuidados médicos em áreas remotas. Soluções como consultas por vídeo e aplicativos de monitoramento remoto têm salvado vidas ao levar assistência médica a quem antes estava excluído dos sistemas tradicionais.",
+      "autoria": "Relatório Saúde para Todos",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 9,
+      "conteudo": "Que bom que você veio",
+      "autoria": "Nay",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 10,
+      "conteudo": "Estudando Angular",
+      "autoria": "Dev Alura",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 11,
+      "conteudo": "Angular é o melhor",
+      "autoria": "Dev Alura",
+      "modelo": "modelo3"
+    }
+  ]
+}

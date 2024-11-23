@@ -16,4 +16,12 @@ export class CriarPensamentoComponent {
     modelo: ''
   }
 
+  criarPensamento() {
+    alert("Foi");
+  }
+
+  cancelar() {
+    alert("Foi");
+  }
+
 }

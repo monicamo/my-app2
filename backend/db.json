@@ -31,12 +31,6 @@
       "modelo": "modelo2"
     },
     {
-      "id": 6,
-      "conteudo": "A sustentabilidade deixou de ser apenas um conceito abstrato e se tornou uma necessidade urgente. Empresas em todo o mundo estão adotando práticas de economia circular, reduzindo o desperdício e repensando seus processos de fabricação para minimizar o impacto ambiental e responder às demandas de consumidores mais conscientes.",
-      "autoria": "Jornal EcoHoje",
-      "modelo": "modelo3"
-    },
-    {
       "id": 7,
       "conteudo": "A educação digital é um divisor de águas no acesso ao conhecimento.",
       "autoria": "Blog Educação em Rede",
@@ -55,16 +49,22 @@
       "modelo": "modelo1"
     },
     {
-      "id": 10,
-      "conteudo": "Estudando Angular",
-      "autoria": "Dev Alura",
-      "modelo": "modelo2"
-    },
-    {
       "id": 11,
       "conteudo": "Angular é o melhor",
       "autoria": "Dev Alura",
       "modelo": "modelo3"
+    },
+    {
+      "conteudo": "teste 1",
+      "autoria": "Dev teste 1",
+      "modelo": "modelo3",
+      "id": 12
+    },
+    {
+      "conteudo": "Aprendendo a cozinhar",
+      "autoria": "Einstein",
+      "modelo": "modelo2",
+      "id": 13
     }
   ]
 }

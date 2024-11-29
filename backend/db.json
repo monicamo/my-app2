@@ -5,21 +5,21 @@
       "conteudo": "I love Angular to eternity",
       "autoria": "Nayvy",
       "modelo": "modelo3",
-      "favorito": false
+      "favorito": true
     },
     {
       "id": 2,
       "conteudo": "Passo informações para o componente filho",
       "autoria": "Nay",
       "modelo": "modelo3",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "A adoção de tecnologias emergentes como inteligência artificial e aprendizado de máquina está transformando setores inteiros, desde saúde até agricultura, oferecendo oportunidades sem precedentes para inovação e eficiência, mas também levantando questões éticas significativas.",
       "autoria": "Revista TechWorld",
       "modelo": "modelo1",
-      "favorito": true
+      "favorito": false
     },
     {
       "id": 4,
@@ -160,6 +160,34 @@
       "modelo": "modelo3",
       "favorito": true,
       "id": 26
+    },
+    {
+      "conteudo": "Na volta a gente compra",
+      "autoria": "mãe",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 27
+    },
+    {
+      "conteudo": "Da vida reclama, mas sem ela não vive!",
+      "autoria": "yoda",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 28
+    },
+    {
+      "conteudo": "Na minha máquina funciona!",
+      "autoria": "dev",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 29
+    },
+    {
+      "conteudo": "Já tentou reiniciar o roteador!",
+      "autoria": "operadora",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 30
     }
   ]
 }
